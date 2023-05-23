@@ -5,7 +5,6 @@ import './App.css';
 function App() {
 
   const CLIENT_ID = "7038065ef018407eb8d28e7e565c8d49";
-  const CLIENT_SECRET = "e9693600fc3745499e33bbf2af223eca";
   const REDIRECT_URI = "http://localhost:3000/";
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
   const RESPONSE_TYPE = "token";
